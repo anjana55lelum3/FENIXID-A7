@@ -8,7 +8,7 @@ module.exports = {
     whiteList: process.env.WHITE_LIST ? process.env.WHITE_LIST.split(',') : [],
 
     fenixaboutype: process.env.FENIX_ABOUT_TYPE || 'Programming',
-    ownerNumber: process.env.OWNER_NUMBER || '94773010580',
+    ownerNumber: process.env.OWNER_NUMBER || '94760105256',
     userTimezone: process.env.USER_TIMEZONE || 'Asia/Colombo',
     FenixName: process.env.FENIX_NAME || 'Unknown Friend',
 
@@ -19,23 +19,23 @@ module.exports = {
 
     // Status motion push
     autodetect1: process.env.AUTO_DETECT_1 || 'heyyy 😸',
-    autodetect2: process.env.AUTO_DETECT_2 || 'ඔයගෙ නම්බරෙ ගත්තෙ ස්ටෙටස් එකකින් 🫠',
+    autodetect2: process.env.AUTO_DETECT_2 || 'ඔයගෙ නම්බරෙ ගත්තෙ ස්ටෙටස් එකකින් සේව් දාගන්න😮‍💨🗿',
 
     botDetails: {
-        botName: process.env.BOT_NAME || 'FENX ID OWNER',
-        botAge: process.env.BOT_AGE || '26',
-        botLocation: process.env.BOT_LOCATION || 'SRILANKA',
+        botName: process.env.BOT_NAME || 'KING-ANJANA-BBH:|',
+        botAge: process.env.BOT_AGE || '18+',
+        botLocation: process.env.BOT_LOCATION || 'Polonnaruwa',
         botEmail: process.env.BOT_EMAIL || 'privateloginemails@gmail.com',
     },
 
-    relaxWishes: process.env.RELAX_WISHES || 'Take a deep breath... 🌿',
+    relaxWishes: process.env.RELAX_WISHES || 'Take a deep breath... 🌿🙂‍↔️🫶',
 
     // Status
     sendTranslations: process.env.SEND_TRANSLATIONS
         ? process.env.SEND_TRANSLATIONS.split(',')
         : [
             "send", "envoyer", "enviar", "invia", "senden", "ส่ง", "gửi", "отправить", "إرسال", "发送",
-            "wysłać", "Sent", "Send", "one", "danna", "ewnna", "ewpm", "ewn", "එවන්න", "ඔනෙ", "ඔන",
+            "wysłać", "Save", "Send", "one", "danna", "ewnna", "ewpm", "ewn", "එවන්න", "ඔනෙ", "ඔන",
             "දාන්න", "දම්", "එවපං", "දහම්", "එවපන්", "දපන්", "දාපන්", "දාපම්", "ඔනා", "ඔනේ", "එවහන්",
             "One", "දෙන්නකො", "ewan", "dapanko", "dapan"
         ],
